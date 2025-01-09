@@ -2,7 +2,6 @@
 
 A comprehensive tool for viewing property information, integrating real-time APIs and AI for a seamless experience.
 
----
 
 ## Steps to Run the Application
 
